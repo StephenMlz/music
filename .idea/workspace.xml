@@ -147,6 +147,9 @@
       <find>pause</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -208,6 +211,7 @@
     <option name="width" value="2560" />
     <option name="height" value="1359" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -285,12 +289,12 @@
       <workItem from="1582332892366" duration="700000" />
       <workItem from="1582334336280" duration="848000" />
       <workItem from="1582335372854" duration="617000" />
-      <workItem from="1582340883112" duration="2157000" />
+      <workItem from="1582340883112" duration="2367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21896000" />
+    <option name="totallyTimeSpent" value="22106000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,7 +319,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.13934426" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50215983" side_tool="true" weight="0.12763466" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3289689" />
       <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25241157" />
       <window_info anchor="bottom" id="Docker" order="11" />

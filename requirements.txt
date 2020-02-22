@@ -1,6 +1,6 @@
 certifi==2019.11.28
 chardet==3.0.4
-Django==2.0
+Django==2.2.10
 idna==2.8
 mysql-client==0.0.1
 PyMySQL==0.9.3
